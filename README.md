@@ -5,13 +5,13 @@
 
 - 👯 I’m looking to collaborate on **Web Development(React.js) & DataStructures and Algorithms.**
 
-- 👨‍💻 My Portfolio [https://lazysukanta.github.io/React-Portfolio/](https://lazysukanta.github.io/React-Portfolio/)
+- 👨‍💻 My [Portfolio](https://lazysukanta.github.io/React-Portfolio/)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **dindasukanta19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KabM0urY0KDT4j4DVjd6aVUuK88WHf8n/view?usp=sharing](https://drive.google.com/file/d/1KabM0urY0KDT4j4DVjd6aVUuK88WHf8n/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mlhWrfeiHI3UDOAdI3c3OcltFZ2YXrmf/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
