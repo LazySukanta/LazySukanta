@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **dindasukanta19@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mlhWrfeiHI3UDOAdI3c3OcltFZ2YXrmf/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sukanta-dinda-69b013182" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sukanta-dinda-69b013182" height="30" width="40" /></a>
